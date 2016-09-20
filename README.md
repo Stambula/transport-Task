@@ -1,5 +1,7 @@
 # transport-Task
 
+*Transportation problem. This code is solving problem of the shortest way between cities.*
+
 
 hometask #3
 
