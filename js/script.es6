@@ -1,9 +1,7 @@
 "use strict"
 
-//destinations - an array from other document
-//DESTINATION = ????????????
 
-// import destinations from './dest.js'; 
+ import {destinations} from './instructions'; 
 
 var div2 = document.getElementById('second-res');
 
