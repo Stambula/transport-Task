@@ -12,7 +12,7 @@ Stay what the step will be
 ---------------------------------------------
 clone repository on your computer
 
-        $ git clone https://github.com/Stambula/transport-Task.git
+      $ git clone https://github.com/Stambula/transport-Task.git
         
         
 then create run command
